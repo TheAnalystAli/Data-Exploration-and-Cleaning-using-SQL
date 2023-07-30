@@ -1,5 +1,5 @@
 # PortfolioProjects
-Explored the data given.
+Explored the data given using SQL
 Cleaned the data that I wanted to work on.
 Compared the total deaths and total cases recorded.
 Shows what percentage of people got covid.
