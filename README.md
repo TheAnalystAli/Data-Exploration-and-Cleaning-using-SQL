@@ -1,4 +1,4 @@
-# PortfolioProjects
+# SQL Project 1
 Explored the data given using SQL
 Cleaned the data that I wanted to work on.
 Compared the total deaths and total cases recorded.
